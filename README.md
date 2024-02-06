@@ -26,7 +26,7 @@ The project begins with meticulous data cleaning and integration to handle missi
 ### 📊 3D Histogram - Sales by Region
 - The 3D histogram provides an in-depth analysis of sales region-wise, allowing for a comprehensive understanding of Adidas sales distribution.
 
-**Interactive Dashboard - Using MS Excel**
+## **Interactive Dashboard - Using MS Excel**
 ![Interactive Dashboard](Adidas_Dashboard.png)
 
 ## Key Metrics 🚀
