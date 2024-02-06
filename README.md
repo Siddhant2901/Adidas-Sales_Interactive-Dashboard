@@ -31,7 +31,7 @@ The project begins with meticulous data cleaning and integration to handle missi
 
 ## Key Metrics 🚀
 
-- Total Sales: $8,999,902,125
+- Total Sales: $8,999,021,25
 - Units Sold: 2,478,861
 - Operating Profit: $332,134,761
 - Operating Margin Average: 42%
